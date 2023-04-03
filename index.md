@@ -2,13 +2,23 @@
 layout: default
 ---
 
-**Welcome to Jinran Qie's personal website!**
+[Email](jinranqie@gmail.com)
+[Linkedin](https://www.linkedin.com/in/jrqie/)
+
 
 # About 
-I am currently a 4th year PhD student at Washington University in St. Louis. 
+I am currently a 4th year PhD student at Washington University in St. Louis, where I work on light manipulation and detection in micro/nano-photonic platforms. 
 
-[my Linkedin page](https://www.linkedin.com/in/jrqie/)
+# Research 
 
+
+# Teaching
+ESE 4301 Quantum Mechanics for Engineers  Fall 2022
+ESE 431  Introduction to Quantum Electronics Spring 2021
+
+# Skills
+
+Working in progress. 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
