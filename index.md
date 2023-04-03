@@ -2,9 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Welcome to Jinran Qie's personal website!**
 
-This is Jinran Qie's personal website.
+# About 
+I am currently a 4th year PhD student at Washington University in St. Louis. 
+
+[my Linkedin page](https://www.linkedin.com/in/jrqie/)
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
