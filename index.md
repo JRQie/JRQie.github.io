@@ -3,6 +3,7 @@ layout: default
 ---
 
 [Linkedin](https://www.linkedin.com/in/jrqie/)
+[Gallery](./another-page.html) 
 
 # About 
 I am currently a 4th year PhD student at Washington University in St. Louis, where I work on light manipulation and detection in micro/nano-photonic platforms. 
@@ -12,8 +13,8 @@ Minaturized spectral sensing and imaging
 High Q microresonators   
 
 # Teaching
-ESE 4301 Quantum Mechanics for Engineers  Fall 2022  
-ESE 431  Introduction to Quantum Electronics Spring 2021  
+ESE 4301 Quantum Mechanics for Engineers, Fall 2022  
+ESE 431  Introduction to Quantum Electronics, Spring 2021  
 
 # Skills
 
@@ -21,15 +22,10 @@ Working in progress.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
