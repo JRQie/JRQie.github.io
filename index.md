@@ -3,7 +3,7 @@ layout: default
 ---
 
 [Linkedin](https://www.linkedin.com/in/jrqie/) 
-[Gallery](./another-page.html) 
+[Gallery](./gallery_page.html) 
 
 Working in progress. 
 
