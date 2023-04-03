@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## This is a Gallery of photos.
 
-_yay_
+To be added
 
-[back](./)
+[back](./index.html)
