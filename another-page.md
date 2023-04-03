@@ -4,6 +4,8 @@ layout: default
 
 ## This is a Gallery of photos.
 
-To be added
+### Sunset
+
+![Sunset1](./images/sunset1.JPG)
 
 [back](./index.html)
