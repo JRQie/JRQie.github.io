@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: another_page
 ---
 
 ## This is a Gallery of photos.
