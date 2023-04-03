@@ -5,6 +5,8 @@ layout: default
 [Linkedin](https://www.linkedin.com/in/jrqie/) 
 [Gallery](./another-page.html) 
 
+Working in progress. 
+
 # About 
 I am currently a 4th year PhD student at Washington University in St. Louis, where I work on light manipulation and detection in micro/nano-photonic platforms. 
 
@@ -18,5 +20,4 @@ ESE 431  Introduction to Quantum Electronics, Spring 2021
 
 # Skills
 
-Working in progress. 
 
