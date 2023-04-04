@@ -8,7 +8,7 @@ layout: default
 Working in progress. 
 
 # About 
-I am currently a 4th year PhD student at Washington University in St. Louis, where I work on light manipulation and detection in micro/nano-photonic platforms. 
+I am currently a 4th year PhD student at Washington University in St. Louis, where I work on light manipulation and detection in micro/nano-photonic systems. 
 
 # Research 
 Minaturized multimodal sensing and imaging   
