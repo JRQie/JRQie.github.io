@@ -8,7 +8,7 @@ layout: default
 Working in progress. 
 
 # About 
-I am currently a 4th year PhD student in the Deparment of ESE at Washington University in St. Louis. I work on light manipulation and detection in micro/nano-photonic systems, and explore deep learning enabled optical design and signal processing. 
+I am currently a 4th year PhD student in the Deparment of ESE at Washington University in St. Louis. I have been working on light manipulation and detection in micro/nano-photonic systems, and exploring deep learning enabled optical design and signal processing. 
 
 # Research 
 Minaturized multimodal optical sensing and imaging based on nanophotonics  
