@@ -8,11 +8,11 @@ layout: default
 Working in progress. 
 
 # About 
-I am currently a 4th year PhD student at Washington University in St. Louis, where I work on light manipulation and detection in micro/nano-photonic systems. 
+I am currently a 4th year PhD student in the Deparment of ESE at Washington University in St. Louis. I work on light manipulation and detection in micro/nano-photonic systems, and explore deep learning enabled optical design and signal processing. 
 
 # Research 
-Minaturized multimodal sensing and imaging   
-High Q microresonators   
+Minaturized multimodal optical sensing and imaging based on nanophotonics  
+Control of light transport in high Q microresonators   
 
 # Teaching
 ESE 4301 Quantum Mechanics for Engineers, Fall 2022  
